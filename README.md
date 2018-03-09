@@ -7,7 +7,7 @@ Tabs (multiple views) Framework7 starter app template.
 1. Using ```git``` to download and serve boilerplate
 
 ```console
-git clone https://github.com/clydeatuic/pgTabs my-app &&
+git clone https://github.com/johncarloz1212/pgTabs
 cd my-app &&
 npm install &&
 npm run serve
@@ -77,3 +77,4 @@ npm run serve
 4. Go to PG Build and create a public app then link your repo (master branch)
 
 5. Open your QR Code Scanner (make sure to have an internet access) and install the app# pgTabs
+# pgTabs
